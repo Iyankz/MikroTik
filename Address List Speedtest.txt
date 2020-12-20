@@ -1,0 +1,2 @@
+/ip firewall address-list
+add address=xmyip.com list=SpeedTest
